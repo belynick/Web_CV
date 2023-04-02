@@ -1,0 +1,76 @@
+.PD {
+    position: absolute;
+    left: 5%;
+    top: 32%;
+    width: 90%;
+    font-size: 12px;
+}
+
+.name {
+    position: absolute;
+    left: 67%;
+    top: 0.1%;
+    font-size: 35px;
+}
+
+.d {
+    position: absolute;
+    left: 66%;
+    top: 7%;
+}
+
+.mail {
+    position: absolute;
+    left: 66%;
+    top: 12%;
+    font-weight: 100;
+}
+
+.work {
+    position: absolute;
+    left: 41%;
+    top: 12%;
+    font-weight: normal;
+    width: 55%;
+    font-size: 12px;
+    ;
+}
+
+.education {
+    position: absolute;
+    left: 41%;
+    top: 52%;
+    font-weight: normal;
+    width: 55%;
+    font-size: 12px;
+    ;
+}
+
+.courses {
+    position: absolute;
+    left: 41%;
+    top: 82%;
+    font-weight: normal;
+    width: 55%;
+    font-size: 12px;
+    ;
+}
+
+.LB {
+    position: absolute;
+    width: 40%;
+    height: 100%;
+    left: 0%;
+    top: 0%;
+    background-color: #7ec6de;
+}
+
+.Photo {
+    position: absolute;
+    width: 180px;
+    height: 200px;
+    left: 30%;
+    top: 4%;
+    border-radius: 40%;
+    border: 5px solid black;
+}
